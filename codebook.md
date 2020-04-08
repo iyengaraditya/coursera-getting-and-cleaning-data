@@ -1,6 +1,6 @@
 # Code Book
 
-Here is a list of all **identifiers**, **measurement variables** and **activity labels**.
+Here is a list of all **identifiers**, **measurement variables** and **activity labels** used in the [tidy dataset](tidyset.txt) 
 
 ## Identifiers
 
