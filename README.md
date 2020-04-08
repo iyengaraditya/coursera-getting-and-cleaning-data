@@ -1,4 +1,4 @@
-# Cleaning a Dataset using R
+# Getting and Cleaning a Dataset using R
 This project is a part of the Coursera course **Getting and Cleaning Data** offered by *Johns Hopkins University* as a part of their
 online Data Science specialization programme.<br/> <br/>
 The **problem statement** is as follows:
